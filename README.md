@@ -1,7 +1,9 @@
 # Plouton
+
 Plouton is the name to use instead of Hades an old way for the greeks to show no disrespect to th god of the dead and riches. Plouton was seen as the bringer of richer becaus all valueble mettals where in the earth from here the name of my accountant aplication. Hopefully showing respect to Plouton will give uss manny riches.
 
 # Help With Vue
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
